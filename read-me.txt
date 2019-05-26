@@ -3,7 +3,7 @@ Passo a passo:
 
 1 - Copiar a pasta ConsoleApp1 para sua máquina.
 
-2 - Abrir o projeto ConsoleApp1>ConsoleApp1.sln com VisualStudio.
+2 - Abrir o projeto ConsoleApp1>ConsoleApp1 com VisualStudio.
 
 3 - Para executar este projeto, é necessário instalar um pacote Json via NuGet usando o comando via console:
 	Install-Package Newtonsoft.Json
